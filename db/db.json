@@ -1,0 +1,64 @@
+{
+  "restaurant": [
+    {
+      "name": "mcd king restaurant",
+      "address": "vapi sector",
+      "email": "mcd@test.com",
+      "id": 0
+    },
+    {
+      "name": "navratan king restaurant",
+      "address": "mumbai sector",
+      "email": "navratan@test.com",
+      "id": 1
+    },
+    {
+      "name": "om king restaurant",
+      "address": "delhi sector",
+      "email": "om@test.com",
+      "id": 2
+    },
+    {
+      "name": "burger king restaurant",
+      "address": "delhi sector",
+      "email": "bkr@test.com",
+      "id": 3
+    },
+    {
+      "name": "dominos king restaurant",
+      "address": "gurgaon sector",
+      "email": "dominos@test.com",
+      "id": 4
+    },
+    {
+      "name": "halidram king restaurant",
+      "address": "draka sector",
+      "email": "halidram@test.com",
+      "id": 5
+    },
+    {
+      "name": "subway",
+      "email": "subway@test.com",
+      "address": "vasai",
+      "id": 6
+    },
+    {
+      "name": "Nehas ",
+      "email": "dubeypinkey@gmail.com",
+      "address": "mumbai",
+      "id": 7
+    },
+    {
+      "name": "Neha",
+      "email": "dubeypinkey@gmail.com",
+      "address": "sss",
+      "id": 8
+    },
+    {
+      "name": "Neha",
+      "email": "dubeypinkey@gmail.com",
+      "address": "bangalore",
+      "id": 9
+    }
+  ]
+}
